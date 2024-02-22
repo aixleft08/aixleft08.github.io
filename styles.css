@@ -1,10 +1,28 @@
-@import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap');
 
 html{
-    font-family: 'Gloock', serif;
+    font-family: 'Playfair', sans-serif;
     background: rgb(253, 254, 246);
 }
 
 .container {
     text-align: center;
-  }
+    body {
+        background-image: url('');
+        background-size: cover;
+        font-family: Arial, sans-serif;
+    }
+    
+    nav {
+        display: flex;
+        justify-content: space-around;
+        background-color: rgba(0, 0, 0, 0.5);
+        color: white;
+        padding: 10px;
+    }
+    
+    nav a {
+        color: white;
+        text-decoration: none;
+    }
+}
