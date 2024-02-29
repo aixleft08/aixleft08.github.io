@@ -10,6 +10,7 @@ My personal site.
 
 https://www.w3schools.com/howto/howto_js_topnav.asp
 https://www.w3schools.com/howto/howto_css_rounded_images.asp
+https://www.w3schools.com/howto/howto_css_shake_image.asp
 
 
 - [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - center content and create structure to the site
